@@ -1,3 +1,3 @@
 # hello-world
 Just the beginning of my journey on github! 
-I like football, all kind of sports and be doing things.
+I like reading, watching movies and doing lots of things.
